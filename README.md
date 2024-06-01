@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Fred! 👋
 
 ![Header](https://your-image-url.com)
@@ -33,4 +32,3 @@ A results-driven developer with 6 years of experience in designing and developin
 - **Email**: [amdevfred@gmail.com](mailto:amdevfred@gmail.com)
 - **GitHub**: [http://github.com/amfredfred](http://github.com/amfredfred)
 - **Telegram**: [https://t.me/editorfred](https://t.me/editorfred)
-```
