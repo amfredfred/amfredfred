@@ -13,4 +13,4 @@ A results-driven developer with 6 years of experience in designing and developin
 - **GitHub**: [http://github.com/amfredfred](http://github.com/amfredfred)
 - **Telegram**: [https://t.me/editorfred](https://t.me/editorfred)
   
-![Header](https://avatars.githubusercontent.com/u/98282982?v=4)
+<img src="https://avatars.githubusercontent.com/u/98282982?v=4" alt="Fred's Profile Picture" width="100" />
