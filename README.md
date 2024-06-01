@@ -22,13 +22,9 @@ A results-driven developer with 6 years of experience in designing and developin
 
 ## Projects
 - **ComboDex**: Developed a decentralized application (dApp) using web3, Solidity, and Ethereum smart contracts to enable trustless transactions.
-- **ETC
-
-## Education
-- **High School**: Community Sec. Sch, Mmaku
-
+- **ETC 
+ 
 ## Connect with Me
-- **Phone**: +234 903 - 2648 - 858
 - **Email**: [amdevfred@gmail.com](mailto:amdevfred@gmail.com)
 - **GitHub**: [http://github.com/amfredfred](http://github.com/amfredfred)
 - **Telegram**: [https://t.me/editorfred](https://t.me/editorfred)
