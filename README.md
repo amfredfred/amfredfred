@@ -1,6 +1,6 @@
 # Hi there, I'm Fred! 👋
 
-![Header](https://avatars.githubusercontent.com/u/98282982?v=4)
+🔴 🟡 🟢 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ediifred)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/ediifred)
@@ -12,3 +12,5 @@ A results-driven developer with 6 years of experience in designing and developin
 - **Email**: [amdevfred@gmail.com](mailto:amdevfred@gmail.com)
 - **GitHub**: [http://github.com/amfredfred](http://github.com/amfredfred)
 - **Telegram**: [https://t.me/editorfred](https://t.me/editorfred)
+  
+![Header](https://avatars.githubusercontent.com/u/98282982?v=4)
