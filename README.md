@@ -11,6 +11,6 @@ A results-driven developer with 6 years of experience in designing and developin
 ## Connect with Me
 - **Email**: [amdevfred@gmail.com](mailto:amdevfred@gmail.com)
 - **GitHub**: [http://github.com/amfredfred](http://github.com/amfredfred)
-- **Telegram**: [https://t.me/editorfred](https://t.me/EDITOFRED)
+- **Telegram**: [https://t.me/editofred](https://t.me/EDITOFRED)
   
 <img src="https://avatars.githubusercontent.com/u/98282982?v=4" alt="Fred's Profile Picture" width="100" />
